@@ -8,8 +8,10 @@ Other than loading the file, JSON of the clipboard is also loaded.
 ## binaries
 This binary is downloadable.  
 Both Windows 32 Bit and 64 Bit exist.  
-> **[binaries](https://github.com/mojeld/jsree/tree/master/binaries)**
+> **[binaries](https://github.com/mojeld/jsree/tree/master/binaries)**  
 
+> **[Windows Store(Web)](https://www.microsoft.com/store/apps/9plphk05pjf7)**  
+> **[Windows Store](ms-windows-store://pdp/?productid=9plphk05pjf7)**
 
 ## code
 The visualization section uses the TTreeView component.  
