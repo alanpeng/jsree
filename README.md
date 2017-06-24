@@ -5,6 +5,8 @@ Other than loading the file, JSON of the clipboard is also loaded.
 
 ## Screenshot
 ![Screenshot1](https://community.embarcadero.com/uploads/23657/2017/05/22/Screenshot2017-05-271729.png "Screenshot1")
+
+
 ## binaries
 This binary is downloadable.  
 Both Windows 32 Bit and 64 Bit exist.  
@@ -79,5 +81,7 @@ void __fastcall TForm1::json_totree_(TJsonTextReader* jsr)
 ```
 This was made in [C++Builder](https://www.embarcadero.com/).
 
+# 
+![GIF](http://i.imgur.com/We0fw32.gif, "GIF")
 
 
